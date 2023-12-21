@@ -1,24 +1,24 @@
 {
   "feedback": [
     {
-      "id": 1,
+      "text": "This is my first feedback, it is an amazing app",
       "rating": 10,
-      "text": "This is feedback item 1 coming from the backend"
+      "id": 1
     },
     {
-      "id": 2,
-      "rating": 5,
-      "text": "This is feedback item 2 coming from the backend"
-    },
-    {
-      "id": 3,
+      "text": "The form is user friendly",
       "rating": 8,
-      "text": "This is feedback item 3 coming from the backend"
+      "id": 3
     },
     {
-      "rating": "8",
-      "text": "a new feedback from the server",
+      "text": "This is the most recent application, that is this beautiful, good one",
+      "rating": 8,
       "id": 5
+    },
+    {
+      "text": "I like the application, it is user friendly",
+      "rating": 2,
+      "id": 7
     }
   ]
 }
